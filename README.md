@@ -36,17 +36,17 @@ This project is built using the following technologies and libraries:
    
 2. Navigate to the project directory:
    ```bash
-  cd BankAPIProject
+     cd BankAPIProject
   
 3. Restore the project dependencies:
 This step downloads all the necessary .NET packages required for the project.
    ```bash
-  dotnet restore
+     dotnet restore
 
 5. Run the application:
 Start the application on your local machine.
    ```bash
-  dotnet run
+     dotnet run
 
   
 
