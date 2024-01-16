@@ -33,23 +33,14 @@ This project is built using the following technologies and libraries:
 1. Clone the repository:
    ```bash
    git clone https://github.com/ozdmremrekaan/BankAPIProject.git
-   
 2. Navigate to the project directory:
-  ```bash
+   ```bash
      cd BankAPIProject
-  
 3. Restore the project dependencies:
 This step downloads all the necessary .NET packages required for the project.
    ```bash
      dotnet restore
-
 5. Run the application:
 Start the application on your local machine.
    ```bash
      dotnet run
-
-  
-
-
-
-
