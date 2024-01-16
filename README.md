@@ -35,6 +35,7 @@ This project is built using the following technologies and libraries:
    git clone https://github.com/ozdmremrekaan/BankAPIProject.git
    
 2.Navigate to the project directory:
+   ```bash
   cd BankAPIProject
   
 3.Restore the project dependencies:
